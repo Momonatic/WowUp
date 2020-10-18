@@ -1,7 +1,7 @@
 {
   "PAGES": {
     "ABOUT": {
-      "CHANGE_LOG_SECTION_LABEL": "Log ändern",
+      "CHANGE_LOG_SECTION_LABEL": "Änderungsverlauf",
       "TITLE": "WowUp.io",
       "WEBSITE_LINK_LABEL": "Schau dir die Webseite an!"
     },
@@ -49,10 +49,10 @@
         "IGNORE_ADDON_BUTTON": "Ignorieren",
         "AUTO_UPDATE_ADDON_BUTTON": "Automatisches Aktualisieren",
         "CHANNEL_SUBMENT_TITLE": "Kanal",
-        "SHOW_FOLDER": "SHOW_FOLDER",
+        "SHOW_FOLDER": "Zeige Ordner",
         "REINSTALL_ADDON_BUTTON": "Neu installieren",
         "REMOVE_ADDON_BUTTON": "Entfernen",
-        "STABLE_ADDON_CHANNEL": "Stall",
+        "STABLE_ADDON_CHANNEL": "Stabil",
         "BETA_ADDON_CHANNEL": "Beta",
         "ALPHA_ADDON_CHANNEL": "Alpha"
       },
@@ -67,7 +67,7 @@
     "OPTIONS": {
       "APPLICATION": {
         "MINIMIZE_ON_CLOSE_LABEL": "Minimieren bei Schliessen",
-        "MINIMIZE_ON_CLOSE_DESCRIPTION": "Beim Schließen des WowUp-Fensters auf das Systemabschnitt minimieren.",
+        "MINIMIZE_ON_CLOSE_DESCRIPTION": "Beim Schließen des WowUp-Fensters in den System Tray minimieren.",
         "TELEMETRY_DESCRIPTION": "Helfen Sie WowUp zu verbessern, indem Sie anonyme Installationsdaten und/oder Fehler senden.",
         "TELEMETRY_LABEL": "Telemetrie",
         "TITLE": "Applikation"
@@ -111,11 +111,11 @@
       "INSTALL_BUTTON": "Installieren",
       "INSTALL_SUCCESS_LABEL": "Installiert!",
       "TITLE": "Installieren Sie die Addon-URL",
-      "DESCRIPTION": "Wenn Sie ein Addon direkt von einer URL installieren möchten, fügen Sie es unten ein, um loszulegen.",
+      "DESCRIPTION": "Wenn Sie ein Addon direkt von einer URL installieren möchten, fügen Sie die URL unten ein, um loszulegen.",
       "SUPPORTED_SOURCES": "Unterstützt WowInterface und GitHub*"
     },
     "TELEMETRY": {
-      "DESCRIPTION": "Hilf mir, WowUp zu verbessern, indem du anonyme Installationsdateien und/oder Fehler schickst?",
+      "DESCRIPTION": "Hilf mir, WowUp zu verbessern, indem du anonyme Installationsdateien und/oder Fehler sendest",
       "NEGATIVE_BUTTON": "Nein Danke",
       "POSITIVE_BUTTON": "Sicher!",
       "TITLE": "WowUp Telemetrie"
@@ -123,18 +123,18 @@
   },
   "COMMON": {
     "ADDON_STATUS": {
-      "COMPLETE": "COMPLETE",
-      "DOWNLOADING": "DOWNLOADING",
-      "INSTALLING": "INSTALLING",
-      "UNINSTALLING": "UNINSTALLING",
-      "UPDATING": "UPDATING"
+      "COMPLETE": "Fertig",
+      "DOWNLOADING": "Herunterladen",
+      "INSTALLING": "Installieren",
+      "UNINSTALLING": "Deinstallieren",
+      "UPDATING": "Aktualisieren"
     },
     "ADDON_STATE": {
-      "UNINSTALL": "UNINSTALL",
-      "IGNORED": "IGNORED",
-      "UPDATE": "UPDATE",
-      "INSTALL": "INSTALL",
-      "UPTODATE": "UPTODATE"
+      "UNINSTALL": "Deinstallieren",
+      "IGNORED": "Ignoriert",
+      "UPDATE": "Update",
+      "INSTALL": "Installieren",
+      "UPTODATE": "Up to date"
     }
   }
 }
